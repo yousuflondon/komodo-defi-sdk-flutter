@@ -17,9 +17,9 @@ abstract class AssetRuntimeUpdateConfig with _$AssetRuntimeUpdateConfig {
     @Default(true) bool fetchAtBuildEnabled,
     @Default(true) bool updateCommitOnBuild,
     @Default('master') String bundledCoinsRepoCommit,
-    @Default('https://api.github.com/repos/yousufpandith/coins')
+    @Default('https://api.github.com/repos/yousuflondon/coins')
     String coinsRepoApiUrl,
-    @Default('https://raw.githubusercontent.com/yousufpandith/coins')
+    @Default('https://raw.githubusercontent.com/yousuflondon/coins')
     String coinsRepoContentUrl,
     @Default('master') String coinsRepoBranch,
     @Default(true) bool runtimeUpdatesEnabled,

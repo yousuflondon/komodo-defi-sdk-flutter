@@ -15,8 +15,8 @@ Constructor options:
 ```dart
 GithubCoinConfigProvider(
   branch: 'master',
-  coinsGithubContentUrl: 'https://raw.githubusercontent.com/yousufpandith/coins',
-  coinsGithubApiUrl: 'https://api.github.com/repos/yousufpandith/coins',
+  coinsGithubContentUrl: 'https://raw.githubusercontent.com/yousuflondon/coins',
+  coinsGithubApiUrl: 'https://api.github.com/repos/yousuflondon/coins',
   coinsPath: 'coins',
   coinsConfigPath: 'utils/coins_config_unfiltered.json',
   cdnBranchMirrors: {'master': 'https://gleecbtc.github.io/coins'},
