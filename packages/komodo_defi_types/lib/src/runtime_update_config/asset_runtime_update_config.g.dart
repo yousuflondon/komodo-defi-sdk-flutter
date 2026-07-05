@@ -42,8 +42,8 @@ _AssetRuntimeUpdateConfig _$AssetRuntimeUpdateConfigFromJson(
         (k, e) => MapEntry(k, e as String),
       ) ??
       const <String, String>{
-        'master': 'https://yousufpandith.github.io/coins',
-        'main': 'https://yousufpandith.github.io/coins',
+        'master': 'https://yousuflondon.github.io/coins',
+        'main': 'https://yousuflondon.github.io/coins',
       },
 );
 

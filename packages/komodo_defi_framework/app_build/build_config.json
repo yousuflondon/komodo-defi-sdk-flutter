@@ -80,8 +80,8 @@
     },
     "concurrent_downloads_enabled": false,
     "cdn_branch_mirrors": {
-      "master": "https://yousufpandith.github.io/coins",
-      "main": "https://yousufpandith.github.io/coins"
+      "master": "https://yousuflondon.github.io/coins",
+      "main": "https://yousuflondon.github.io/coins"
     }
   }
 }

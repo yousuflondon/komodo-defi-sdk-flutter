@@ -33,8 +33,8 @@ abstract class AssetRuntimeUpdateConfig with _$AssetRuntimeUpdateConfig {
     Map<String, String> mappedFolders,
     @Default(false) bool concurrentDownloadsEnabled,
     @Default(<String, String>{
-      'master': 'https://yousufpandith.github.io/coins',
-      'main': 'https://yousufpandith.github.io/coins',
+      'master': 'https://yousuflondon.github.io/coins',
+      'main': 'https://yousuflondon.github.io/coins',
     })
     Map<String, String> cdnBranchMirrors,
   }) = _AssetRuntimeUpdateConfig;

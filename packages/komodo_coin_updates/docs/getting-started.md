@@ -55,7 +55,7 @@ final config = AssetRuntimeUpdateConfig(
   },
   concurrentDownloadsEnabled: true,
   cdnBranchMirrors: {
-    'master': 'https://yousufpandith.github.io/coins',
+    'master': 'https://yousuflondon.github.io/coins',
   },
 );
 ```

@@ -425,14 +425,14 @@ void main() {
           mappedFolders: {'assets/coins': 'icons'},
           concurrentDownloadsEnabled: true,
           cdnBranchMirrors: {
-            'master': 'https://yousufpandith.github.io/coins',
-            'dev': 'https://yousufpandith.github.io/coins',
+            'master': 'https://yousuflondon.github.io/coins',
+            'dev': 'https://yousuflondon.github.io/coins',
           },
         );
 
         expect(
           config.effectiveContentUrl,
-          equals('https://yousufpandith.github.io/coins'),
+          equals('https://yousuflondon.github.io/coins'),
         );
       });
 
@@ -450,8 +450,8 @@ void main() {
           mappedFolders: {'assets/coins': 'icons'},
           concurrentDownloadsEnabled: true,
           cdnBranchMirrors: {
-            'master': 'https://yousufpandith.github.io/coins',
-            'dev': 'https://yousufpandith.github.io/coins',
+            'master': 'https://yousuflondon.github.io/coins',
+            'dev': 'https://yousuflondon.github.io/coins',
           },
         );
 
