@@ -238,7 +238,7 @@ void main() {
           coinsPath: 'coins',
           coinsConfigPath: 'utils/coins_config_unfiltered.json',
           cdnBranchMirrors: const {
-            'master': 'https://gleecbtc.github.io/coins',
+            'master': 'https://yousufpandith.github.io/coins',
           },
         );
 
@@ -259,7 +259,7 @@ void main() {
           coinsPath: 'coins',
           coinsConfigPath: 'utils/coins_config_unfiltered.json',
           cdnBranchMirrors: const {
-            'master': 'https://gleecbtc.github.io/coins',
+            'master': 'https://yousufpandith.github.io/coins',
           },
         );
 
